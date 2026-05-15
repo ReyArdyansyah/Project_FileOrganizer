@@ -1,0 +1,9 @@
+# Abaikan folder hasil kompilasi
+build/
+dist/
+*.spec
+__pycache__/
+
+# Abaikan mesin AI dan aplikasinya agar GitHub tidak penuh
+Tesseract-OCR/
+*.exe
